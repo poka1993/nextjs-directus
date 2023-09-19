@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	deleted:    app/favicon.ico
+#	deleted:    app/globals.css
+#	deleted:    app/layout.tsx
+#	deleted:    app/page.module.css
+#	deleted:    app/page.tsx
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   tsconfig.json
+#
+# Untracked files:
+#	app/
+#	lib/
+#
